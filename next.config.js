@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  export: "input",
+  output: 'export',
 }
 
 module.exports = nextConfig
